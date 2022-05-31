@@ -1,6 +1,6 @@
 # Cryptography
 #### this is a homework of information security, which includes:
-#### 1.ecc
-#### 2.rsa
-#### 3.hmac based on sha1
-#### 4.dec(ecb cbc cfb ofb streaming)
+#### 1.ECC
+#### 2.RSA
+#### 3.HMAC based on SHA-1
+#### 4.DEC(ECB CBC CFB OFB streaming)
