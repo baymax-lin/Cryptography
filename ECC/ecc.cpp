@@ -1,8 +1,8 @@
 /*
  example :ecc
- only support the prime is set to 0~2^31-1 can work,
+ only support the prime between 0~2^31-1,
  note that plain 'm' must meet 'km<=p' ,where 'k' is the search range of embeded x ,'p' is a large prime.
- if group data by 1 byte 0<=m<=255.
+ 0<=m<=255.
  
  ecc: y^2 = x^3 + ax + b mod p
  
