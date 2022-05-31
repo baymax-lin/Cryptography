@@ -1,5 +1,5 @@
 # Cryptography
-#### this is a homework of information security, which includes:
+#### This is a homework of information security, which includes:
 #### 1.ECC
 #### 2.RSA
 #### 3.HMAC based on SHA-1
